@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body, html {
+    height: 100%;
+    overflow: hidden;
+    padding-top: 44px;
+}
+
+.my-own-style {
+    margin-left: 37px;
+    margin-top: 37px;
+}
+
+.scroll {
+    overflow: auto;
+    height: 80%;
+    padding: 0;
+    margin-left: 37px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container > * {
+  width: 100%;
+}

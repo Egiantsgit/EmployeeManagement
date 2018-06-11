@@ -1,0 +1,12 @@
+{
+  "Candidate": [
+    {
+      "response": [
+        {
+          "code": "401",
+          "message": "UnAuthorized User. Contact System Administrator."
+        }
+      ]
+    }
+  ]
+}

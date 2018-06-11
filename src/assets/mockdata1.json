@@ -1,0 +1,81 @@
+{
+  "Candidate": [
+    {
+    "response": [{
+      "code": "200",
+      "message": "Valid Registered User."
+    }],
+      "EmailID": "ravidgd@gmail.com",
+      "UUID": {
+        "id": "0018335447",
+        "Created Date": "05/24/2018"
+      },
+      "Personalid": [
+        {
+          "sourceSysCode": "ID",
+          "id": "00572431696"
+        },
+        {
+          "sourceSysCode": "ALTERNATEID",
+          "id": "867314623"
+        }
+      ],
+      "demographic": {
+        "name": {
+          "firstName": "JORGE",
+          "lastName": "MARTINEZ"
+        },
+        "dateOfBirth": "1959-04-23",
+        "gender": {
+          "code": "M"
+        },
+        "otherNames": [
+          {
+            "name": {
+              "firstName": "JORGE",
+              "lastName": "MARTINEZ"
+            }
+          }
+        ],
+        "age": {
+          "ageUnits": 58
+        },
+        "otherIdentifiers": [
+          {
+            "sourceSysCode": "id",
+            "id": "wejhj"
+          }
+        ],
+        "addresses": [
+          {
+            "line1": "2660 PERIDOT DRIVE",
+            "city": "SAN JOSE",
+            "state": "CA",
+            "postalCode": {
+              "part1": "95132"
+            },
+            "type": "MAILING"
+          },
+          {
+            "line1": "2660 PnERIDOT DRIVE",
+            "city": "SAN JOSE",
+            "state": "CA",
+            "postalCode": {
+              "part1": "95132"
+            },
+            "type": "PERMANENT"
+          }
+        ],
+        "phones": [
+          {
+            "phoneTypeCode": {
+              "code": "Primary"
+            },
+            "telephoneNbr": "4087574534"
+          }
+        ],
+        "employeeStatus": "A"
+      }
+    }
+  ]
+}

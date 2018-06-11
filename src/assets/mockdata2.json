@@ -1,0 +1,17 @@
+{
+  "Candidate": [
+    {
+      "response": [
+        {
+          "code": "206",
+          "message": "Valid User. Allow the User to Register."
+        }
+      ],
+      "EmailID": "xxxxxxx@gmail.com",
+      "UUID": {
+        "id": "0018335447",
+        "Created Date": "05/24/2018"
+      }
+    }
+  ]
+}
